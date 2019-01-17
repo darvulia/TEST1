@@ -1,0 +1,6 @@
+- web app con entity framework //solo para aprender y hacerla de volada...
+- web service
+- pagina con angular //usar web service
+- xamarin Android y iOS //usar web service
+- uwp //usar web service
+- web app (a la antiguita)
